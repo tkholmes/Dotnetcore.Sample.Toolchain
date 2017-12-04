@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApp.Models
+namespace FPC.Workshop2.WebApp.Models
 {
     public class ErrorViewModel
     {

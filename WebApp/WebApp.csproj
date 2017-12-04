@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>FPC.Workshop2.WebApp</AssemblyName>
+    <RootNamespace>FPC.Workshop2.WebApp</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
